@@ -1,2 +1,3 @@
 # codefundo-idea
 Team Lenk Ploxx's idea for Microsoft's code.fun.do 2018-19
+We aim to create an application that predicts the probability of a particular disaster occuring in a region in the near feature.  This prediction will be done by incorporating several factors such as monitoring the weather statistics of that place and implementing Deep Neural Networks for predicting the disasters. We also aim to monitor the trending tweets in that region and look for disaster related words in them using Natural Language Processing techniques like Bag-of-Words, TF-IDF, etc. to generate data for aiding disaster relief protocols. We will try to cover a variety of natural disasters.
